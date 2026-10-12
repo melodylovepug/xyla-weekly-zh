@@ -1,5 +1,7 @@
 # Xyla 成长周记 · 爷爷奶奶版 💛
 
+> **Moved (Oct 2026):** the site is bilingual again at https://melodylovepug.github.io/xyla-weekly/ . This repo’s `index.html` redirects there with `?lang=zh`; the old pages here are left as-is and no longer updated.
+
 Simplified-Chinese-only site for Xyla’s grandparents. Live: https://melodylovepug.github.io/xyla-weekly-zh/
 Melody’s English site: https://github.com/melodylovepug/xyla-weekly (https://melodylovepug.github.io/xyla-weekly/).
 
