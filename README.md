@@ -17,6 +17,7 @@ Melody’s English site: https://github.com/melodylovepug/xyla-weekly (https://m
 - Bump `?v=` on every HTML after any asset/JSON change (same sed as the English README).
 
 ## Weekly rules (same as Melody’s site)
+- **每页只管一周：** each week page covers exactly 7 days (Week 4 = 10月18日–24日). Don’t write “这两周”. Past pages keep their dates.
 - Order: where she is now → do & don’t with why → what’s next → plays. Big 3 = actionable this week, each with **什么时候 / 怎么做 / 可以说**.
 - Feelings: describe her real current phase and the next cycle.
 - **Plays carry over:** review earlier weeks’ plays; keep the ones that still fit (or a harder version), drop outgrown ones (Ditty Bird, give-and-take, leave-and-come-back peekaboo, etc.).
